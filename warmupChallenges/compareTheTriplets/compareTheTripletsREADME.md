@@ -27,6 +27,3 @@ compareTriplets has the following parameter(s):
 Returns:
 
 - `int[2]`: Alice's score is in the first position, and Bob's score is in the second.
-
-## Notes
-Used nested foreach and if statements to determine score.

@@ -8,6 +8,3 @@ aVeryBigSum has the following parameter(s):
 Returns:
 
 - `long`: the sum of all array elements.
-
-## Notes
-The same as simple sum, as the in-built PHP function does all the work.

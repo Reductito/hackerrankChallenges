@@ -10,6 +10,3 @@ int b: the second value
 
 Returns:
 - `int`: the sum of `a` and `b`
-
-## Notes
-Simple `a` + `b`
